@@ -1,0 +1,4 @@
+Service,FiveQI,RB_Policy,RR_Channels,PF_Channels,ML_Channels,Total_Samples
+Voice,QI-4,50 RBs,1117,1086,3345,3350
+Video,QI-7,30 RBs,663,692,1991,1990
+IoT,QI-9,20 RBs,1489,1592,4464,4466

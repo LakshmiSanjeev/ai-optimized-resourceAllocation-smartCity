@@ -1,0 +1,4 @@
+TrafficClass,Description,FiveQI,NumUEs,Avg_DL_Tput(Mbps),Avg_UL_Tput(Mbps),Avg_DL_Delay(ms),Avg_UL_Delay(ms),Avg_DL_Jitter(ms),Avg_UL_Jitter(ms),Avg_DL_Loss(%),Avg_UL_Loss(%)
+0,IoT_Sensors,9,6,0.0098495,0.00966706,268.174,18.1464,63.8318,2.83742,0,0
+1,Video_Streaming,4,7,0.309604,0.357283,181.601,47.8769,41.4001,5.36073,0,0
+2,Mixed_Data,7,7,0.123018,0.16213,143.699,45.9521,28.2264,10.9789,0,0
